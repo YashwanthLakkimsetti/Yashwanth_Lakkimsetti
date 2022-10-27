@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lakkimsetti Sai Yashwanth</h1>
-<h3 align="center">Software engineer and a front-end developer, with a diverse range of skills including.</h3>
+<h3 align="center">Software engineer and a front-end developer, Currently Learnign Data Structures and Algorithms.</h3>
 <h3 align="left">✍️ Quote Of The Day</h3>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanthlakkimsetti&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanthlakkimsetti" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashwanthlakkimsetti" alt="yashwanthlakkimsetti" /></a> </p>
 
@@ -47,4 +46,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashwanthlakkimsetti&show_icons=true&locale=en" alt="yashwanthlakkimsetti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanthlakkimsetti&" alt="yashwanthlakkimsetti" /></p>
+
+
+
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhkunal01&show_icons=true&locale=en" alt="singhkunal01" /></p> -->
 ![THANKS FOR VISITING MY PROFILE](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
