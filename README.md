@@ -47,3 +47,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashwanthlakkimsetti&show_icons=true&locale=en" alt="yashwanthlakkimsetti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanthlakkimsetti&" alt="yashwanthlakkimsetti" /></p>
+[THANKS FOR VISITING MY PROFILE](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
