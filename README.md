@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakkimsetti Sai Yashwanth</h1>
-<h3 align="center">Software engineer and a front-end developer, Currently Learnign Data Structures and Algorithms.</h3>
+<h3 align="center">Software engineer and a front-end developer.</h3>
 <h3 align="left">✍️ Quote Of The Day</h3>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
