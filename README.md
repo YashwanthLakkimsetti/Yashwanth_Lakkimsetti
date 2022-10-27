@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yashulakki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashulakki" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yashwanth lakkimsetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashwanth lakkimsetti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yashwanth-lakkimsetti-he-him-224726181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashwanth-lakkimsetti-he-him-224726181" height="30" width="40" /></a>
 <a href="https://instagram.com/yashu_lakki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashu_lakki" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/yashulakki0911" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yashulakki0911" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/lakkiyashwanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lakkiyashwanth" height="30" width="40" /></a>
