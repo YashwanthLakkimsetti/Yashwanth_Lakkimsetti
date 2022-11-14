@@ -1,67 +1,52 @@
-<h2 align="center">Hi, I'm Yashwanth Lakkimsetti <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
- 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Yashulakki__?style=social)](https://twitter.com/Yashulakki)
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" alt="handWaving" height="30" width="30" />, I'm KUNAL SINGH </h1>
+<h3 align="center">Currently Doing Hands On Practice on Data Structures and Algorithms with Full Stack Development Side By Side and a little bit Competitive Programming .</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=singhkunal01&label=Profile%20views&color=0e75b6&style=flat" alt="singhkunal01" /> </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/rishikagupta2468?style=social)](https://github.com/rishikagupta2468)
+- 🔭 I’m currently Learning **Node.Js and Express.Js**
 
-<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
+- 👨‍💻 All of my projects are available [**HERE**](https://github.com/singhkunal01)
 
-<h2>About me</h2>
+- 💬 Ask me about **DSA,C++,HTML ,JS ,CSS,Node.Js,Express.Js ,React.Js**
 
-I am Rishika Gupta, currently working as a Software Developer [LinkedIn](https://github.com/linkedin). I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
-⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
-💬 Ask me anything, I will be more than happy to help :D
-<h3>Summary</h3>
+- 📫 You can reach me by [**MY-GMAIL**](mailto:Kunalsingh142001@gmail.com)
 
-[![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<h3 align="left">✍️ Quote Of The Day</h3>
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishikagupta2468&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
+<h3 align="left">🧾 My Recent Work</h3>
 
-<h2>🛠Tech Stack</h2>
+<a href="https://github.com/singhkunal01/Code-on-your-own">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=singhkunal01&theme=gotham&repo=Code-on-your-own" />
+</a>
+<a href="https://github.com/anuraghazra/ocr-generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=singhkunal01&theme=gotham&repo=ocr-generator" />
+</a>
 
-Languages  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+<h3 align="left">📩 Connect with me:</h3>
+<p align="left">
+<h4>Social 👇🏻<h4/>
+<a href="mailto:Kunalsingh142001@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="singhkunal01" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/singhkunal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="singhkunal01" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/in/KunalSingh_01" target="blank"><img align="center" src="https://www.pngkey.com/png/full/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" alt="singhkunal01" height="40" width="40" /></a><br>
+<h4>Coding 👇🏻<h4/>
+<a href="https://www.codechef.com/users/singhkunal01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="singhkunal01" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/singhkunal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="singhkunal01" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/singhkunal01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="singhkunal01" height="30" width="40" /></a>
+</p>
 
-Frameworks, Platforms and Libraries  
-![Ember](https://img.shields.io/badge/ember-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+<h3 align="left">Languages and Tools:</h3>
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)>
 
-📺 Latest YouTube Videos
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhkunal01&theme=gotham&show_icons=true&locale=en&layout=compact" alt="singhkunal01" /></p> -->
 
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Add Binary Strings | DSA Interview Preparation | In Hindi | Part 3](https://www.youtube.com/watch?v=4Ag-d6taS6c)
-- [Palindrome number | DSA Interview Preparation | In Hindi | Part 2](https://www.youtube.com/watch?v=TdLClY_Zoes)
-- [Two Sum | DSA Interview Preparation | In Hindi | Part 1](https://www.youtube.com/watch?v=sQ8FWrYdr3U)
-- [Connected component in undirected graph without DFS??](https://www.youtube.com/watch?v=LtsFwXN5OTA)
-- [Find Product of Array Except Self | DSA Interview Questions](https://www.youtube.com/watch?v=QzfY0V-0-CY)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=singhkunal01&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=singhkunal01&theme=gotham&hide_border=false)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhkunal01&theme=gotham)](https://github.com/singhkunal01/github-readme-stats)
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhkunal01&show_icons=true&locale=en" alt="singhkunal01" /></p> -->
+![THANKS FOR VISITING MY PROFILE](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
 
-
-▶ [...more YouTube videos](https://www.youtube.com/channel/UCKTBOLj2igRhsYX1RGdV0ww)
-
-
-
-
-📫Connect with me:
-
-
-[<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://www.linkedin.com/in/rishikagupta-rg/) 
-[<img src="https://user-images.githubusercontent.com/39955420/147572505-a0f98499-2d13-4149-a68a-a66f7ebe0e23.png" height="48" width="48">](https://twitter.com/Rishika5000) 
-[<img src="https://user-images.githubusercontent.com/39955420/147572399-e0dbf2e9-ea53-4341-8bb7-013f37a5d4ff.png" height="48" width="48">](https://www.youtube.com/channel/UCKTBOLj2igRhsYX1RGdV0ww) 
-[<img src="https://user-images.githubusercontent.com/39955420/147606108-506d542b-a344-43d3-a4a3-aadd775f5c0b.png" height="48" width="48">](https://www.polywork.com/rishikagupta)
-[<img src="https://user-images.githubusercontent.com/39955420/147611479-36ad6cd0-3b53-4d46-8035-0bd940e01a57.png" height="48" width="48">](mailto:rishika246813579@gmail.com)
-[<img src="https://user-images.githubusercontent.com/39955420/147572858-093e11d5-c974-43de-9795-f328d4cda097.png" height="48" width="48">](https://www.instagram.com/rishikagupta__/)
-
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=singhkunal01&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
