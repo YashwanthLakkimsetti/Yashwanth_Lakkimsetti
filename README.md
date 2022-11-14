@@ -16,8 +16,8 @@
 
 <h3 align="left">🧾 My Recent Work</h3>
 
-<a href="https://github.com/singhkunal01/Code-on-your-own">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=singhkunal01&theme=gotham&repo=Code-on-your-own" />
+<a href="[https://github.com/singhkunal01/Code-on-your-own](https://github.com/YashwanthLakkimsetti/CodeChef)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YashwanthLakkimsetti&theme=gotham&repo=CodeChef" />
 </a>
 <a href="https://github.com/anuraghazra/ocr-generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=singhkunal01&theme=gotham&repo=ocr-generator" />
