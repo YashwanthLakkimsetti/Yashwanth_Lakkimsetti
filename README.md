@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently Learning **DSA**
 
-- 👨‍💻 All of my projects are available [**HERE**]([https://github.com/singhkunal01](https://github.com/YashwanthLakkimsetti?tab=repositories))
+- 👨‍💻 All of my projects are available [**HERE**](https://github.com/YashwanthLakkimsetti?tab=repositories)
 
 - 💬 Ask me about **DSA,C++,HTML ,JS ,CSS,Node.Js,Express.Js ,React.Js**
 
