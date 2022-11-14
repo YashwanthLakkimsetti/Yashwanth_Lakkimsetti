@@ -1,54 +1,67 @@
-<h1 align="center">Hi 👋, I'm Lakkimsetti Sai Yashwanth</h1>
-<h3 align="center">Software engineer and a front-end developer.</h3>
-<h3 align="left">✍️ Quote Of The Day</h3>
+<h2 align="center">Hi, I'm Rishika Gupta  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
+ 
+[![Twitter Follow](https://img.shields.io/twitter/follow/rishikagupta__?style=social)](https://twitter.com/Rishika5000)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKTBOLj2igRhsYX1RGdV0ww?style=social)](https://www.youtube.com/channel/UCKTBOLj2igRhsYX1RGdV0ww)
+[![GitHub followers](https://img.shields.io/github/followers/rishikagupta2468?style=social)](https://github.com/rishikagupta2468)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
 
+<h2>About me</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashwanthlakkimsetti" alt="yashwanthlakkimsetti" /></a> </p>
+I am Rishika Gupta, currently working as a Software Developer [LinkedIn](https://github.com/linkedin). I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
+⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
+💬 Ask me anything, I will be more than happy to help :D
+<h3>Summary</h3>
 
-<p align="left"> <a href="https://twitter.com/yashulakki" target="blank"><img src="https://img.shields.io/twitter/follow/yashulakki?logo=twitter&style=for-the-badge" alt="yashulakki" /></a> </p>
-
-- 🔭 I’m currently working on **Data Structures and Algorithms**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/YashwanthLakkimsetti](https://github.com/YashwanthLakkimsetti)
-
-- 💬 Ask me about **HTML5, CSS3, JavaScript, ReactJs**
-
-- 📫 How to reach me **lakkiyashwanth@gmail.com**
-
-- 📄 Know about my experiences [https://amethyst-gerladina-13.tiiny.site/](https://amethyst-gerladina-13.tiiny.site/)
-
-- ⚡ Fun fact **One of my favourite things to do is Playing Games**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yashulakki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashulakki" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yashwanth-lakkimsetti-he-him-224726181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashwanth-lakkimsetti-he-him-224726181" height="30" width="40" /></a>
-<a href="https://instagram.com/yashu_lakki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashu_lakki" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/yashulakki0911" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yashulakki0911" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lakkiyashwanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lakkiyashwanth" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lakkiyashwanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lakkiyashwanth" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@yashu27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@yashu27" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/yashulakki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yashulakki" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+[![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishikagupta2468/rishikagupta2468/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishikagupta2468&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashwanthlakkimsetti&show_icons=true&locale=en&layout=compact" alt="yashwanthlakkimsetti" /></p>
- -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashwanthlakkimsetti&show_icons=true&locale=en" alt="yashwanthlakkimsetti" /></p>
+<h2>🛠Tech Stack</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanthlakkimsetti&" alt="yashwanthlakkimsetti" /></p>
+Languages  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+Frameworks, Platforms and Libraries  
+![Ember](https://img.shields.io/badge/ember-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+
+📺 Latest YouTube Videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Add Binary Strings | DSA Interview Preparation | In Hindi | Part 3](https://www.youtube.com/watch?v=4Ag-d6taS6c)
+- [Palindrome number | DSA Interview Preparation | In Hindi | Part 2](https://www.youtube.com/watch?v=TdLClY_Zoes)
+- [Two Sum | DSA Interview Preparation | In Hindi | Part 1](https://www.youtube.com/watch?v=sQ8FWrYdr3U)
+- [Connected component in undirected graph without DFS??](https://www.youtube.com/watch?v=LtsFwXN5OTA)
+- [Find Product of Array Except Self | DSA Interview Questions](https://www.youtube.com/watch?v=QzfY0V-0-CY)
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+
+▶ [...more YouTube videos](https://www.youtube.com/channel/UCKTBOLj2igRhsYX1RGdV0ww)
 
 
 
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhkunal01&show_icons=true&locale=en" alt="singhkunal01" /></p> -->
-![THANKS FOR VISITING MY PROFILE](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
+📫Connect with me:
+
+
+[<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://www.linkedin.com/in/rishikagupta-rg/) 
+[<img src="https://user-images.githubusercontent.com/39955420/147572505-a0f98499-2d13-4149-a68a-a66f7ebe0e23.png" height="48" width="48">](https://twitter.com/Rishika5000) 
+[<img src="https://user-images.githubusercontent.com/39955420/147572399-e0dbf2e9-ea53-4341-8bb7-013f37a5d4ff.png" height="48" width="48">](https://www.youtube.com/channel/UCKTBOLj2igRhsYX1RGdV0ww) 
+[<img src="https://user-images.githubusercontent.com/39955420/147606108-506d542b-a344-43d3-a4a3-aadd775f5c0b.png" height="48" width="48">](https://www.polywork.com/rishikagupta)
+[<img src="https://user-images.githubusercontent.com/39955420/147611479-36ad6cd0-3b53-4d46-8035-0bd940e01a57.png" height="48" width="48">](mailto:rishika246813579@gmail.com)
+[<img src="https://user-images.githubusercontent.com/39955420/147572858-093e11d5-c974-43de-9795-f328d4cda097.png" height="48" width="48">](https://www.instagram.com/rishikagupta__/)
+
+
