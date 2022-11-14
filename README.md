@@ -6,9 +6,9 @@
 
 - 👨‍💻 All of my projects are available [**HERE**](https://github.com/YashwanthLakkimsetti?tab=repositories)
 
-- 💬 Ask me about **DSA,C++,HTML ,JS ,CSS,Node.Js,Express.Js ,React.Js**
+- 💬 Ask me about **DSA,C++,HTML ,JS ,CSS, React.Js**
 
-- 📫 You can reach me by [**MY-GMAIL**](mailto:Kunalsingh142001@gmail.com)
+- 📫 You can reach me by [**MY-GMAIL**](mailto:lakkiyashwanth@gmail.com)
 
 <h3 align="left">✍️ Quote Of The Day</h3>
 
